@@ -13,3 +13,5 @@ Tools for the AI aftermath, launched one at a time:
 Fractional design leadership for teams with complex data and flows, where mistakes cost money. Bucharest, remote. Paid in fiat.
 
 [LinkedIn](https://www.linkedin.com/in/raduceuca) · [X](https://x.com/raduceuca) · [Product Hunt](https://www.producthunt.com/@raduceuca) · [wcgw.fun](https://wcgw.fun)
+
+[![viberank](https://www.viberank.app/api/badge/raduceuca)](https://www.viberank.app/profile/raduceuca)
